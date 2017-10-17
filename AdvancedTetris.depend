@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1508267336 source:e:\advancedtetris\liste.c
+	<stdlib.h>
+	"Liste.h"
+
+1508265198 e:\advancedtetris\liste.h
+
+1508265938 source:e:\advancedtetris\main.c
+	<stdio.h>
+	"Liste.h"
+	"Liste.c"
+
+1508265198 e:\advancedtetris\liste.c
+	<stdlib.h>
+	"Liste.h"
+
+1508227010 e:\advancedtetris\main.c
+	<stdio.h>
+	"Liste.h"
+	"Liste.c"
+
